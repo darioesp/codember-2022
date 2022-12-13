@@ -9,7 +9,7 @@ Soluciona los Retos en **[codember.dev](https://codember.dev/)**
 
 ## Contribución
 
-1. [Haz un fork del proyecto](https://github.com/darioesp/codember@2022/fork)
+1. [Haz un fork del proyecto](https://github.com/darioesp/codember-2022/fork)
 2. agrega tu solución al final del este readme
    * agrega tu solución en el formato `## Nombre de reto | [Nombre de usuario](github.com/usuario)`
 3. Crea tu pull request
