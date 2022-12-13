@@ -12,11 +12,14 @@ Soluciona los Retos en **[codember.dev](https://codember.dev/)**
 1. [Haz un fork del proyecto](https://github.com/darioesp/codember-2022/fork)
 2. agrega tu solución al final del este readme
    * agrega tu solución en el formato `## Nombre de reto | [Nombre de usuario](github.com/usuario)`
+   * No olvides agregar después de cada respuesta `---`
 3. Crea tu pull request
 
 ## Licencia
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+---
 
 ## CHALLENGE01 | [darioesp](https://github.com/darioesp)
 ```javascript
@@ -750,3 +753,5 @@ console.log(userFilters.length)
 console.log(userFilters.at(-1))
 
 ```
+
+---
