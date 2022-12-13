@@ -1,7 +1,7 @@
 # 👨‍💻 Codember 2022
 Supera todos los retos de programación
 
-<img align="center" alt="codember" width="600" src="https://codember.dev/og.png"/>
+<img align="center" alt="codember" width="100%" src="https://codember.dev/og.png"/>
 
 
 ## Quiero resolver los retos 🚀
